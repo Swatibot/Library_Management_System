@@ -76,7 +76,7 @@ Enter your choice:
 - Handling User Input using Scanner
 - Building Menu-Driven Applications
 
-## Screenshots
+## Output Screenshots
 ![Output1](Output1.PNG)
 
 ![Output2](Output2.PNg)
