@@ -78,10 +78,12 @@ Enter your choice:
 
 ## Output Screenshots
 
-###Output 1
+### Output 1
+
 ![Output1](Output1.png)
 
-###Output 2
+### Output 2
+
 ![Output2](Output2.png)
 
 ## 👨‍💻 Author
