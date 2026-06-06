@@ -77,9 +77,12 @@ Enter your choice:
 - Building Menu-Driven Applications
 
 ## Output Screenshots
-![Output1](Output1.PNG)
 
-![Output2](Output2.PNg)
+###Output 1
+![Output1](Output1.png)
+
+###Output 2
+![Output2](Output2.png)
 
 ## 👨‍💻 Author
 
